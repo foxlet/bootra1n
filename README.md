@@ -36,6 +36,7 @@ Happy jailbreaking!
 *USB Errors:* Try swapping cables and changing from USB 2.0 (black port) to 3.0 (blue port) and vice versa.
 
 ## Credits
+- Checkra1n for Linux - https://checkra.in/
 - Base OS - [Void Linux Team](https://voidlinux.org/)
-- Build - Foxlet ([@FoxletFox](https://twitter.com/foxletfox))
+- Project - Foxlet ([@FoxletFox](https://twitter.com/foxletfox))
 - Concept - Evan ([@evanhackerman](https://twitter.com/evanhackerman))
