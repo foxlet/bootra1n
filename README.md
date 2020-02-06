@@ -9,8 +9,8 @@ You will need:
 You do not need to install additional software or an OS.
 
 ### 1. Download bootra1n
-- [bootra1n LiveCD (Github - 388 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8/bootra1n-x86_64-0.9.8-20200205.zip)
-- [bootra1n LiveCD (Mirror - 388 MB)](https://foxlet.furcode.co/temp/bootra1n-x86_64-0.9.8-20200205.zip)
+- [bootra1n LiveCD (Github Mirror - 388 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8/bootra1n-x86_64-0.9.8-20200205.zip)
+- [bootra1n LiveCD (Backup Mirror - 388 MB)](https://foxlet.furcode.co/temp/bootra1n-x86_64-0.9.8-20200205.zip)
 > SHA-256: 0b844c6e2126d7b2701e52f25db77273d637f6337bbc1e525ffaa55499380952
 
 Unzip bootra1n into any directory, it should contain an ISO file.
