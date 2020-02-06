@@ -30,7 +30,8 @@ Reboot your computer and enter your BIOS's boot menu.
 Happy jailbreaking!
 
 ## Troubleshooting
-*Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.
+*Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.  
+*Error -78:* Exit checkra1n and double-check you entered `sudo checkra1n`
 
 ## Credits
 - Base OS - [Void Linux Team](https://voidlinux.org/)
