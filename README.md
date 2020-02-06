@@ -9,7 +9,7 @@ You will need:
 You do not need to install additional software or an OS.
 
 ### 1. Download bootra1n
-- [bootra1n LiveCD (388 MB)](https://drive.google.com/uc?id=137Wlou51i4cuDidzUSR_LS59s37BTsqs&export=download)
+- [bootra1n LiveCD (388 MB)](https://foxlet.furcode.co/temp/bootra1n-x86_64-0.9.8-20200205.zip)
 
 Unzip bootra1n into any directory, it should contain an ISO file.
 
