@@ -8,18 +8,22 @@ You will need:
 
 You do not need to install additional software or an OS.
 
-### 1. Download bootra1n
+
+### 1. Disable Secure Boot
+You can disable Secure Boot in your BIOS settings.
+
+### 2. Download bootra1n
 - [bootra1n LiveCD (Github Mirror - 390 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8b/bootra1n-x86_64-0.9.8-20200206.zip)
 > SHA-256: 58081dedecfae5ebfb167fc0d45985ca00f20ca13a61c5f4c3d47a49d75af14a
 
 Unzip bootra1n into any directory, it should contain an ISO file.
 
-### 2. Write bootra1n to USB
+### 3. Write bootra1n to USB
 - Etcher https://www.balena.io/etcher/
 
 Download Etcher, select the ISO file, flash it to your USB drive.
 
-### 3. Reboot and run checkra1n
+### 4. Reboot and run checkra1n
 Reboot your computer and enter your BIOS's boot menu.
 
 - Select the flash drive, and it should boot into the login prompt
