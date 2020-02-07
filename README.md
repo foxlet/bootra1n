@@ -30,6 +30,11 @@ Reboot your computer and enter your BIOS's boot menu.
 
 Happy jailbreaking!
 
+### 4. Shutdown or restart
+After quiting checkra1n,
+- type `shutdown -h now` to shut down
+- or type `shutdown -r nnow` to restart.
+
 ## Troubleshooting
 *Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.  
 *Error -78:* Exit checkra1n and double-check you entered `sudo checkra1n`  
