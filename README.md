@@ -33,7 +33,7 @@ Happy jailbreaking!
 ### 4. Shutdown or restart
 After quiting checkra1n,
 - type `shutdown -h now` to shut down
-- or type `shutdown -r nnow` to restart.
+- or type `shutdown -r now` to restart.
 
 ## Troubleshooting
 *Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.  
