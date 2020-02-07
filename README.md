@@ -33,7 +33,8 @@ Happy jailbreaking!
 ## Troubleshooting
 *Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.  
 *Error -78:* Exit checkra1n and double-check you entered `sudo checkra1n`  
-*USB Errors:* Try swapping cables and changing from USB 2.0 (black port) to 3.0 (blue port) and vice versa.
+*USB Errors:* Try swapping cables and changing from USB 2.0 (black port) to 3.0 (blue port) and vice versa.  
+*ACPI Errors:* On the boot menu, select `RAM` mode, then press TAB and add `acpi=off nomodeset` to the prompt.  
 
 ## Credits
 - Checkra1n for Linux - https://checkra.in/
