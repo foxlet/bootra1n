@@ -21,6 +21,20 @@ Unzip bootra1n into any directory, it should contain an ISO file.
 
 Download Etcher, select the ISO file, flash it to your USB drive.
 
+#### 2.1. Use UEFI boot without formatting your flash drive
+
+If you already have an USB drive formatted with FAT32 format, and your PC supports UEFI boot (which most modern PC do),  
+then you can just copy contents to your drive's root directory, without the need to format it. 
+
+- 7-zip https://www.7-zip.org/
+
+You can use any archive tool, 7-zip is a recommended open-source archive tool available for Windows. 
+
+- Extract everything from downloaded ISO to your drive
+- Open /boot/grub/efiboot.img and extract the EFI folder to your drive's root. 
+- Change your USB drive's label to VOID_LIVE
+- Reboot and select UEFI boot device from your BIOS boot menu
+
 ### 3. Reboot and run checkra1n
 Reboot your computer and enter your BIOS's boot menu.
 
