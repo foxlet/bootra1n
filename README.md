@@ -8,7 +8,7 @@ You will need:
 
 You do not need to install additional software or an OS.
 
-### 1. Download bootra1n
+### 1. Download bootra1n 0.9.8.1
 - [bootra1n LiveCD (64-bit - 422 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8.1/bootra1n-x86_64-0.9.8.1-20200304.iso)
 - [bootra1n LiveCD (32-bit - 365 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8b/bootra1n-i686-0.9.8-20200206.zip)
 > 64-bit: 2ce01d97bc4e45def8a80ff9a64bc172f9c821bcef7a923fa600f4f2113c4f11   
