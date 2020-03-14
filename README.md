@@ -17,9 +17,9 @@ You do not need to install additional software or an OS.
 Unzip bootra1n into any directory, it should contain an ISO file.
 
 ### 2. Write bootra1n to USB
-- Etcher https://www.balena.io/etcher/
+- Rufus https://rufus.ie/
 
-Download Etcher, select the ISO file, flash it to your USB drive.
+Download Rufus, press SELECT, open the ISO file, and press START to flash it to your USB drive.
 
 ### 3. Reboot and run checkra1n
 Reboot your computer and enter your BIOS's boot menu.
