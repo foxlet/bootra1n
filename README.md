@@ -8,11 +8,11 @@ You will need:
 
 You do not need to install additional software or an OS.
 
-### 1. Download bootra1n 0.9.8.2
-- [bootra1n LiveCD (64-bit - 409 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8.2/bootra1n-x86_64-0.9.8.2-20200315.iso)
-- [bootra1n LiveCD (32-bit - 385 MB)](https://github.com/foxlet/bootra1n/releases/download/0.9.8.2/bootra1n-i686-0.9.8.2-20200315.iso)
-> 64-bit: 5189966631b1fed316aa0b503e1a8f1e76fff1ad865138f673eeaa2ce886a60e   
-> 32-bit: 67cf2674e171b9b5efef0415d4c79a4a113e4050206b8aa9fdec1c6652e46370
+### 1. Download bootra1n 0.10.1
+- [bootra1n LiveCD (64-bit - 409 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.1/bootra1n-x86_64-0.10.1-20200408.iso)
+- [bootra1n LiveCD (32-bit - 385 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.1/bootra1n-i686-0.10.1-20200408.iso)
+> 64-bit: 846f3c9951a7fd27d164ca80b6d633944ce2c8d1ea3269f0f252e439191348ef   
+> 32-bit: cbcb71f85843fcb8d9c21b2635b2c4d4ad56912e908f72b73bd029f021dde4fe
 
 ### 2. Write bootra1n to USB
 - Rufus https://rufus.ie/
@@ -36,10 +36,12 @@ Quit checkra1n and at prompt type:
 - `sudo shutdown -r now` to restart.
 
 ## Troubleshooting
+*Error -71:* Use the (USB Safe) option in the boot menu.  
 *Error -77:* Remove your passcode before starting the jailbreak, you can set it back once done.  
 *Error -78:* Exit checkra1n and double-check you entered `sudo checkra1n`  
 *Secure Boot Errors:* You can disable Secure Boot in your BIOS settings.  
 *USB Errors:* Try swapping cables and changing from USB 2.0 (black port) to 3.0 (blue port) and vice versa.  
+*Graphics Errors:* Use the (Graphics Safe) option in the boot menu.  
 *ACPI Errors:* On the boot menu, select `RAM` mode, then press TAB and add `acpi=off nomodeset` to the prompt.  
 
 ## Credits
