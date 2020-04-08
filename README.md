@@ -14,8 +14,6 @@ You do not need to install additional software or an OS.
 > 64-bit: 5189966631b1fed316aa0b503e1a8f1e76fff1ad865138f673eeaa2ce886a60e   
 > 32-bit: 67cf2674e171b9b5efef0415d4c79a4a113e4050206b8aa9fdec1c6652e46370
 
-Unzip bootra1n into any directory, it should contain an ISO file.
-
 ### 2. Write bootra1n to USB
 - Rufus https://rufus.ie/
 
