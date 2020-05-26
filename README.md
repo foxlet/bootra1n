@@ -8,16 +8,17 @@ You will need:
 
 You do not need to install additional software or an OS.
 
-### 1. Download bootra1n 0.10.1
-- [bootra1n LiveCD (64-bit - 411 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.1/bootra1n-x86_64-0.10.1-20200408.iso)
-- [bootra1n LiveCD (32-bit - 387 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.1/bootra1n-i686-0.10.1-20200408.iso)
-> 64-bit: 846f3c9951a7fd27d164ca80b6d633944ce2c8d1ea3269f0f252e439191348ef   
-> 32-bit: cbcb71f85843fcb8d9c21b2635b2c4d4ad56912e908f72b73bd029f021dde4fe
+### 1. Download bootra1n 0.10.2
+- [bootra1n LiveCD (64-bit - 421 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.2/bootra1n-x86_64-0.10.2-20200526.iso)
+- [bootra1n LiveCD (32-bit - 396 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.2/bootra1n-i686-0.10.2-20200526.iso)
+> 64-bit: 795e9e80c08bb801c812ab52b5494dec90620ce68f3f5169ad07aaed58176360   
+> 32-bit: 3047828469fe8167cd4d0a7fe034caa1ee585f9526599159d283bc49e807a2d8
 
 ### 2. Write bootra1n to USB
 - Rufus https://rufus.ie/
 
 Download Rufus, press SELECT, open the ISO file, and press START to flash it to your USB drive.
+> Tip: You also can burn a DVD in lieu of a flash drive.
 
 ### 3. Reboot and run checkra1n
 Reboot your computer and enter your BIOS's boot menu.
