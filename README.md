@@ -8,11 +8,11 @@ You will need:
 
 You do not need to install additional software or an OS.
 
-### 1. Download bootra1n 0.10.2
-- [bootra1n LiveCD (64-bit - 421 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.2/bootra1n-x86_64-0.10.2-20200526.iso)
-- [bootra1n LiveCD (32-bit - 396 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.2/bootra1n-i686-0.10.2-20200526.iso)
-> 64-bit: 795e9e80c08bb801c812ab52b5494dec90620ce68f3f5169ad07aaed58176360   
-> 32-bit: 3047828469fe8167cd4d0a7fe034caa1ee585f9526599159d283bc49e807a2d8
+### 1. Download bootra1n 0.11.0
+- [bootra1n LiveCD (64-bit - 424 MB)](https://github.com/foxlet/bootra1n/releases/download/0.11.0/bootra1n-x86_64-0.11.0-20200922.iso)
+- [bootra1n LiveCD (32-bit - 405 MB)](https://github.com/foxlet/bootra1n/releases/download/0.11.0/bootra1n-i686-0.11.0-20200922.iso)
+> 64-bit SHA-256: 465c15b6b79f2f8f19479bfd820d0497fe2d75175f769c66025d74cbf7dad4b5
+> 32-bit SHA-256: 5b19378f8292a81cc973d3f5cb44e25d18a088033d805ebd5e7bd5d662e5c1d8
 
 ### 2. Write bootra1n to USB
 - Rufus https://rufus.ie/
